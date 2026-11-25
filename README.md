@@ -34,3 +34,4 @@ Created as part of a learning and practical development project.
 
 ## License
 This project is intended for educational and learning purposes.
+Note book report https://gemini.google.com/gem/1O4MFIR8DestdHWnL-hJwmcFBZUNq6OEQ?usp=sharing
